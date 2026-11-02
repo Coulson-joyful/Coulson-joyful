@@ -1,7 +1,6 @@
 # 你好，我是 Coulson
 
-住在上海，正在边学边做一些小项目。这里放的东西大多从具体用途开始：让 Mac 上跑完的任务通知到手机，整理一个能自己维护的个人网站，或者做一个有自己样子的桌面角色。
-
+住在上海，正在边学边做一些小项目。
 ## 可以从这几个项目逛起
 
 - [codex-iMessage-notify](https://github.com/Coulson-joyful/codex-iMessage-notify)：用 iMessage 发起独立 Codex 任务，或接收电脑上任务的完成与授权提醒。

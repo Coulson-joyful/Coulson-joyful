@@ -2,13 +2,6 @@
 
 住在上海，正在边学边做一些小项目。这里放的东西大多从具体用途开始：让 Mac 上跑完的任务通知到手机，整理一个能自己维护的个人网站，或者做一个有自己样子的桌面角色。
 
-## App 作品
-
-- [星语塔罗 · 产品与使用手册](https://coulson-joyful.github.io/apps/tarot/)：每日一牌、牌阵、占星骰、一页回应与主题牌面展示。
-- [GreenTune · 产品与使用说明](https://coulson-joyful.github.io/apps/greentune/)：调音器、节拍器与变速练习，附多设备使用说明。
-
-两个 App 均处于开发与上架准备阶段。这里展示产品文档和界面，源码工程保持私有。
-
 ## 可以从这几个项目逛起
 
 - [codex-iMessage-notify](https://github.com/Coulson-joyful/codex-iMessage-notify)：用 iMessage 发起独立 Codex 任务，或接收电脑上任务的完成与授权提醒。

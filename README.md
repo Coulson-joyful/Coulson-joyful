@@ -10,7 +10,7 @@
 
 这些项目的安装方式和使用限制都写在各自 README 里。有些依赖 Mac 本机权限，有些还在调整，我会把已经能做的和还要验证的分开写。
 
-I’m Coulson, based in Shanghai. I’m learning by building small tools, including iMessage automation, a personal website, and a custom animated pet.
+I’m Coulson, based in Shanghai. 
 
 [GitHub](https://github.com/Coulson-joyful) · [邮件](mailto:liuyf21@tsinghua.org.cn)
 

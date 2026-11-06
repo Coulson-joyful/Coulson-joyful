@@ -1,6 +1,13 @@
 # 你好，我是 Coulson
 
 住在上海，正在边学边做一些小项目。
+## 两款正在测试的 App
+
+- [星谕塔罗 · 使用说明](https://coulson-joyful.github.io/apps/tarot/)：每日一牌、牌阵、占星骰和一页回应。
+- [GreenTune · 使用说明](https://coulson-joyful.github.io/apps/greentune/)：调音器、节拍器与节奏练习。
+
+两款 App 均处于 **TestFlight 测试阶段**，尚未正式上架 App Store。使用说明由 AI 撰写，功能与界面以实际测试版本为准。
+
 ## 可以从这几个项目逛起
 
 - [codex-iMessage-notify](https://github.com/Coulson-joyful/codex-iMessage-notify)：用 iMessage 发起独立 Codex 任务，或接收电脑上任务的完成与授权提醒。

@@ -1,12 +1,14 @@
 # 你好，我是 Coulson
 
 住在上海，正在边学边做一些小项目。
-## 两款正在测试的 App
+## 两款已获准 App Store 发行的 App
 
 - [星谕塔罗 · 使用说明](https://coulson-joyful.github.io/apps/tarot/)：每日一牌、牌阵、占星骰和一页回应。
 - [GreenTune · 使用说明](https://coulson-joyful.github.io/apps/greentune/)：调音器、节拍器与节奏练习。
 
-两款 App 均处于 **TestFlight 测试阶段**，尚未正式上架 App Store。使用说明由 AI 撰写，功能与界面以实际测试版本为准。
+2026-11-07：两款 App 的 **iOS 正式版本均已通过 App Store 审核、获准发行**。使用说明由 AI 撰写，功能与地区供应以商店及实际安装版本为准。
+
+[星谕塔罗 · App Store](https://apps.apple.com/app/id6830673481) · [GreenTune · App Store](https://apps.apple.com/app/id6830012155)
 
 ## 可以从这几个项目逛起
 
